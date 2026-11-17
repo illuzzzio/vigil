@@ -1,0 +1,35 @@
+# Build directories
+build/
+out/
+bin/
+lib/
+.cmake/
+
+# Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
